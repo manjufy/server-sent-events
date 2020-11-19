@@ -4,10 +4,8 @@
 
 ## How to run
 
-    ```
     npm install
     Go to http://localhost:8080
-    ```
 
 ## Demo screens
 
