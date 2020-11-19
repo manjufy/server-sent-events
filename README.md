@@ -9,6 +9,8 @@
     Go to http://localhost:8080
     ```
 
+## Demo screens
+
 ![alt text](https://github.com/manjufy/server-sent-events/blob/master/images/demo-1.png "Demo screen 1")
 
 ![alt text](https://github.com/manjufy/server-sent-events/blob/master/images/demo-2.png "Demo screen 2")
