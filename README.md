@@ -5,6 +5,7 @@
 ## How to run
 
     npm install
+    node server.js
     Go to http://localhost:8080
 
 ## Demo screens
